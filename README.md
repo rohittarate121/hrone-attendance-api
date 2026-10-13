@@ -102,7 +102,6 @@ and not collection scans.
 
 ## What is Not Included
 
-- No Dockerfile
 - No frontend
 - No authentication system
 - No `.env` file committed to the repository
